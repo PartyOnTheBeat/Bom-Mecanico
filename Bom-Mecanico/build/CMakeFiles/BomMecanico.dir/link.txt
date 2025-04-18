@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BomMecanico.dir/src/QuizDash.cpp.o CMakeFiles/BomMecanico.dir/src/QuizEngine.cpp.o CMakeFiles/BomMecanico.dir/src/main.cpp.o -o BomMecanico 

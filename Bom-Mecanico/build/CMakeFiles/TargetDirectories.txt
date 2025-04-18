@@ -1,0 +1,3 @@
+/home/vasco/Fr_Projects/BomMecanico/Bom-Mecanico/build/CMakeFiles/BomMecanico.dir
+/home/vasco/Fr_Projects/BomMecanico/Bom-Mecanico/build/CMakeFiles/edit_cache.dir
+/home/vasco/Fr_Projects/BomMecanico/Bom-Mecanico/build/CMakeFiles/rebuild_cache.dir
