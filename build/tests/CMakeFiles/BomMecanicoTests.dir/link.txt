@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o -o BomMecanicoTests  ../src/libBomMecanicoLib.a ../lib/libgtest_main.a ../lib/libgtest.a 

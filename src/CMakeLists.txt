@@ -1,0 +1,6 @@
+add_library(BomMecanicoLib
+    # ...existing code...
+    Question.cpp
+    # ...add more source files as needed...
+)
+target_include_directories(BomMecanicoLib PUBLIC ${CMAKE_SOURCE_DIR}/include)

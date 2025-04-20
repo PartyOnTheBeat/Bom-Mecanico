@@ -1,0 +1,28 @@
+Start testing: Apr 20 11:52 WEST
+----------------------------------------------------------
+1/1 Testing: BomMecanicoTests
+1/1 Test: BomMecanicoTests
+Command: "/home/vasco/Fr_Projects/BomMecanico/build/tests/BomMecanicoTests"
+Directory: /home/vasco/Fr_Projects/BomMecanico/build/tests
+"BomMecanicoTests" start time: Apr 20 11:52 WEST
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QuestionTest
+[ RUN      ] QuestionTest.StoresAndReturnsQuestionAndAnswer
+[       OK ] QuestionTest.StoresAndReturnsQuestionAndAnswer (0 ms)
+[----------] 1 test from QuestionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BomMecanicoTests" end time: Apr 20 11:52 WEST
+"BomMecanicoTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 20 11:52 WEST
