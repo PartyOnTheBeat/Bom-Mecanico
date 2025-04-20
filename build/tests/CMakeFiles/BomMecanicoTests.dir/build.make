@@ -73,15 +73,15 @@ tests/CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o: tests/CMakeFiles/BomM
 tests/CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o: ../tests/test_question.cpp
 tests/CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o: tests/CMakeFiles/BomMecanicoTests.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vasco/Fr_Projects/BomMecanico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o"
-	cd /home/vasco/Fr_Projects/BomMecanico/build/tests && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o -MF CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o.d -o CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o -c /home/vasco/Fr_Projects/BomMecanico/tests/test_question.cpp
+	cd /home/vasco/Fr_Projects/BomMecanico/build/tests && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o -MF CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o.d -o CMakeFiles/BomMecanicoTests.dir/test_question.cpp.o -c /home/vasco/Fr_Projects/BomMecanico/tests/test_question.cpp
 
 tests/CMakeFiles/BomMecanicoTests.dir/test_question.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BomMecanicoTests.dir/test_question.cpp.i"
-	cd /home/vasco/Fr_Projects/BomMecanico/build/tests && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vasco/Fr_Projects/BomMecanico/tests/test_question.cpp > CMakeFiles/BomMecanicoTests.dir/test_question.cpp.i
+	cd /home/vasco/Fr_Projects/BomMecanico/build/tests && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vasco/Fr_Projects/BomMecanico/tests/test_question.cpp > CMakeFiles/BomMecanicoTests.dir/test_question.cpp.i
 
 tests/CMakeFiles/BomMecanicoTests.dir/test_question.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BomMecanicoTests.dir/test_question.cpp.s"
-	cd /home/vasco/Fr_Projects/BomMecanico/build/tests && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vasco/Fr_Projects/BomMecanico/tests/test_question.cpp -o CMakeFiles/BomMecanicoTests.dir/test_question.cpp.s
+	cd /home/vasco/Fr_Projects/BomMecanico/build/tests && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vasco/Fr_Projects/BomMecanico/tests/test_question.cpp -o CMakeFiles/BomMecanicoTests.dir/test_question.cpp.s
 
 # Object files for target BomMecanicoTests
 BomMecanicoTests_OBJECTS = \

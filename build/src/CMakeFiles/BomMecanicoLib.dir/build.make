@@ -73,15 +73,15 @@ src/CMakeFiles/BomMecanicoLib.dir/Question.cpp.o: src/CMakeFiles/BomMecanicoLib.
 src/CMakeFiles/BomMecanicoLib.dir/Question.cpp.o: ../src/Question.cpp
 src/CMakeFiles/BomMecanicoLib.dir/Question.cpp.o: src/CMakeFiles/BomMecanicoLib.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vasco/Fr_Projects/BomMecanico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/BomMecanicoLib.dir/Question.cpp.o"
-	cd /home/vasco/Fr_Projects/BomMecanico/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/BomMecanicoLib.dir/Question.cpp.o -MF CMakeFiles/BomMecanicoLib.dir/Question.cpp.o.d -o CMakeFiles/BomMecanicoLib.dir/Question.cpp.o -c /home/vasco/Fr_Projects/BomMecanico/src/Question.cpp
+	cd /home/vasco/Fr_Projects/BomMecanico/build/src && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/BomMecanicoLib.dir/Question.cpp.o -MF CMakeFiles/BomMecanicoLib.dir/Question.cpp.o.d -o CMakeFiles/BomMecanicoLib.dir/Question.cpp.o -c /home/vasco/Fr_Projects/BomMecanico/src/Question.cpp
 
 src/CMakeFiles/BomMecanicoLib.dir/Question.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BomMecanicoLib.dir/Question.cpp.i"
-	cd /home/vasco/Fr_Projects/BomMecanico/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vasco/Fr_Projects/BomMecanico/src/Question.cpp > CMakeFiles/BomMecanicoLib.dir/Question.cpp.i
+	cd /home/vasco/Fr_Projects/BomMecanico/build/src && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vasco/Fr_Projects/BomMecanico/src/Question.cpp > CMakeFiles/BomMecanicoLib.dir/Question.cpp.i
 
 src/CMakeFiles/BomMecanicoLib.dir/Question.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BomMecanicoLib.dir/Question.cpp.s"
-	cd /home/vasco/Fr_Projects/BomMecanico/build/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vasco/Fr_Projects/BomMecanico/src/Question.cpp -o CMakeFiles/BomMecanicoLib.dir/Question.cpp.s
+	cd /home/vasco/Fr_Projects/BomMecanico/build/src && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vasco/Fr_Projects/BomMecanico/src/Question.cpp -o CMakeFiles/BomMecanicoLib.dir/Question.cpp.s
 
 # Object files for target BomMecanicoLib
 BomMecanicoLib_OBJECTS = \
