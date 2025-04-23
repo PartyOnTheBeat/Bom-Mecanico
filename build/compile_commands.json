@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/vasco/Fr_Projects/BomMecanico/build/src",
+  "command": "/usr/bin/g++  -I/home/vasco/Fr_Projects/BomMecanico/include -g -o CMakeFiles/BomMecanicoLib.dir/Question.cpp.o -c /home/vasco/Fr_Projects/BomMecanico/src/Question.cpp",
+  "file": "/home/vasco/Fr_Projects/BomMecanico/src/Question.cpp"
+},
+{
+  "directory": "/home/vasco/Fr_Projects/BomMecanico/build/tests",
+  "command": "/usr/bin/g++  -I/home/vasco/Fr_Projects/BomMecanico/include -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/include -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest -g -o CMakeFiles/runTests.dir/test_question.cpp.o -c /home/vasco/Fr_Projects/BomMecanico/tests/test_question.cpp",
+  "file": "/home/vasco/Fr_Projects/BomMecanico/tests/test_question.cpp"
+},
+{
+  "directory": "/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -I/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googlemock/include -I/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googlemock -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/include -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googlemock/include -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googlemock -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/include -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -I/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/include -I/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/include -isystem /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]

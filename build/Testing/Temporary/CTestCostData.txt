@@ -1,0 +1,7 @@
+QuestionTest.ConstructorCorrect 7 0.00289036
+QuestionTest.ConstructorNotCorrect 3 0.00201306
+QuestionTest.ConstructorEmptyText 4 0.00229087
+QuestionTest.ConstructorEmptyOptions 4 0.00243575
+QuestionTest.ConstructorOutOfRangeCorrectIndex 4 0.00245521
+QuestionTest.ConstructorNegativeCorrectIndex 4 0.00371138
+---

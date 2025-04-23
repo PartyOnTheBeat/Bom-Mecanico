@@ -1,0 +1,30 @@
+Start testing: Apr 23 19:30 WEST
+----------------------------------------------------------
+1/6 Testing: QuestionTest.ConstructorCorrect
+1/6 Test: QuestionTest.ConstructorCorrect
+Command: "/home/vasco/Fr_Projects/BomMecanico/build/tests/runTests" "--gtest_filter=QuestionTest.ConstructorCorrect" "--gtest_also_run_disabled_tests"
+Directory: /home/vasco/Fr_Projects/BomMecanico/build/tests
+"QuestionTest.ConstructorCorrect" start time: Apr 23 19:30 WEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QuestionTest.ConstructorCorrect
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QuestionTest
+[ RUN      ] QuestionTest.ConstructorCorrect
+[       OK ] QuestionTest.ConstructorCorrect (0 ms)
+[----------] 1 test from QuestionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QuestionTest.ConstructorCorrect" end time: Apr 23 19:30 WEST
+"QuestionTest.ConstructorCorrect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 23 19:30 WEST

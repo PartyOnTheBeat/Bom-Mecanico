@@ -1,0 +1,165 @@
+Start testing: Apr 23 19:25 WEST
+----------------------------------------------------------
+1/6 Testing: QuestionTest.ConstructorCorrect
+1/6 Test: QuestionTest.ConstructorCorrect
+Command: "/home/vasco/Fr_Projects/BomMecanico/build/tests/runTests" "--gtest_filter=QuestionTest.ConstructorCorrect" "--gtest_also_run_disabled_tests"
+Directory: /home/vasco/Fr_Projects/BomMecanico/build/tests
+"QuestionTest.ConstructorCorrect" start time: Apr 23 19:25 WEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QuestionTest.ConstructorCorrect
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QuestionTest
+[ RUN      ] QuestionTest.ConstructorCorrect
+[       OK ] QuestionTest.ConstructorCorrect (0 ms)
+[----------] 1 test from QuestionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QuestionTest.ConstructorCorrect" end time: Apr 23 19:25 WEST
+"QuestionTest.ConstructorCorrect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: QuestionTest.ConstructorNotCorrect
+2/6 Test: QuestionTest.ConstructorNotCorrect
+Command: "/home/vasco/Fr_Projects/BomMecanico/build/tests/runTests" "--gtest_filter=QuestionTest.ConstructorNotCorrect" "--gtest_also_run_disabled_tests"
+Directory: /home/vasco/Fr_Projects/BomMecanico/build/tests
+"QuestionTest.ConstructorNotCorrect" start time: Apr 23 19:25 WEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QuestionTest.ConstructorNotCorrect
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QuestionTest
+[ RUN      ] QuestionTest.ConstructorNotCorrect
+[       OK ] QuestionTest.ConstructorNotCorrect (0 ms)
+[----------] 1 test from QuestionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QuestionTest.ConstructorNotCorrect" end time: Apr 23 19:25 WEST
+"QuestionTest.ConstructorNotCorrect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: QuestionTest.ConstructorEmptyText
+3/6 Test: QuestionTest.ConstructorEmptyText
+Command: "/home/vasco/Fr_Projects/BomMecanico/build/tests/runTests" "--gtest_filter=QuestionTest.ConstructorEmptyText" "--gtest_also_run_disabled_tests"
+Directory: /home/vasco/Fr_Projects/BomMecanico/build/tests
+"QuestionTest.ConstructorEmptyText" start time: Apr 23 19:25 WEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QuestionTest.ConstructorEmptyText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QuestionTest
+[ RUN      ] QuestionTest.ConstructorEmptyText
+[       OK ] QuestionTest.ConstructorEmptyText (0 ms)
+[----------] 1 test from QuestionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QuestionTest.ConstructorEmptyText" end time: Apr 23 19:25 WEST
+"QuestionTest.ConstructorEmptyText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: QuestionTest.ConstructorEmptyOptions
+4/6 Test: QuestionTest.ConstructorEmptyOptions
+Command: "/home/vasco/Fr_Projects/BomMecanico/build/tests/runTests" "--gtest_filter=QuestionTest.ConstructorEmptyOptions" "--gtest_also_run_disabled_tests"
+Directory: /home/vasco/Fr_Projects/BomMecanico/build/tests
+"QuestionTest.ConstructorEmptyOptions" start time: Apr 23 19:25 WEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QuestionTest.ConstructorEmptyOptions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QuestionTest
+[ RUN      ] QuestionTest.ConstructorEmptyOptions
+[       OK ] QuestionTest.ConstructorEmptyOptions (0 ms)
+[----------] 1 test from QuestionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QuestionTest.ConstructorEmptyOptions" end time: Apr 23 19:25 WEST
+"QuestionTest.ConstructorEmptyOptions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: QuestionTest.ConstructorOutOfRangeCorrectIndex
+5/6 Test: QuestionTest.ConstructorOutOfRangeCorrectIndex
+Command: "/home/vasco/Fr_Projects/BomMecanico/build/tests/runTests" "--gtest_filter=QuestionTest.ConstructorOutOfRangeCorrectIndex" "--gtest_also_run_disabled_tests"
+Directory: /home/vasco/Fr_Projects/BomMecanico/build/tests
+"QuestionTest.ConstructorOutOfRangeCorrectIndex" start time: Apr 23 19:25 WEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QuestionTest.ConstructorOutOfRangeCorrectIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QuestionTest
+[ RUN      ] QuestionTest.ConstructorOutOfRangeCorrectIndex
+[       OK ] QuestionTest.ConstructorOutOfRangeCorrectIndex (0 ms)
+[----------] 1 test from QuestionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QuestionTest.ConstructorOutOfRangeCorrectIndex" end time: Apr 23 19:25 WEST
+"QuestionTest.ConstructorOutOfRangeCorrectIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: QuestionTest.ConstructorNegativeCorrectIndex
+6/6 Test: QuestionTest.ConstructorNegativeCorrectIndex
+Command: "/home/vasco/Fr_Projects/BomMecanico/build/tests/runTests" "--gtest_filter=QuestionTest.ConstructorNegativeCorrectIndex" "--gtest_also_run_disabled_tests"
+Directory: /home/vasco/Fr_Projects/BomMecanico/build/tests
+"QuestionTest.ConstructorNegativeCorrectIndex" start time: Apr 23 19:25 WEST
+Output:
+----------------------------------------------------------
+Running main() from /home/vasco/Fr_Projects/BomMecanico/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = QuestionTest.ConstructorNegativeCorrectIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QuestionTest
+[ RUN      ] QuestionTest.ConstructorNegativeCorrectIndex
+[       OK ] QuestionTest.ConstructorNegativeCorrectIndex (0 ms)
+[----------] 1 test from QuestionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"QuestionTest.ConstructorNegativeCorrectIndex" end time: Apr 23 19:25 WEST
+"QuestionTest.ConstructorNegativeCorrectIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 23 19:25 WEST
