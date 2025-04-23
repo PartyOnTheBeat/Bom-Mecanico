@@ -1,2 +1,0 @@
-/usr/bin/ar qc libBomMecanicoLib.a CMakeFiles/BomMecanicoLib.dir/Question.cpp.o
-/usr/bin/ranlib libBomMecanicoLib.a
